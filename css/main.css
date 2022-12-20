@@ -942,6 +942,10 @@ button.btn--large {
   height: 6rem !important;
   line-height: 5.6rem !important;
 }
+ .btn--large1{
+   height: 6rem !important;
+   line-height:5.6rem !important;
+}
 
 .btn--stroke,
 button.btn--stroke {
